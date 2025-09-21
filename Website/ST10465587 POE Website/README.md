@@ -12,8 +12,8 @@ Website Goals and Objectives
 - Provide accessible information to users
 - Promote services and community engagement
 - Ensure responsive design across devices
-- That all users can and will be able to use the website without any hussel.
-- To make the business regconised as well run business that keeps adjusting to the times. 
+- That all users can and will be able to use the website without any hassle.
+- To make the business recognised as a well-run business that keeps adjusting to the times. 
 
 Key Features and Functionality
 - Homepage with navigation bar
