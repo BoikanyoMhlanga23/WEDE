@@ -88,3 +88,40 @@ justify-content: space-between;
     height: 70%;
     padding-top: 15px;
 }
+table{
+    width: 100%;
+}
+td{
+    border-top: 1px solid #131313;
+    border-bottom: 1px solid #131313;
+    padding: 10px;
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: auto;
+    font-size: 1.2em;
+    color: #333333;
+    line-height: 1.6;
+    font-family: Arial, sans-serif;
+}
+form {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: auto;
+    max-width: 600px;
+
+}
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+}
